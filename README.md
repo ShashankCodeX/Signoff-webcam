@@ -123,7 +123,3 @@ To run the tests:
 ```sh
 python -m unittest discover -s . -p 'test_*.py'
 ```
-
-## Credit
-
-Created and maintained by [ShashankCodeX](https://github.com/ShashankCodeX).

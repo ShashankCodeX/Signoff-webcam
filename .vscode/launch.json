@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "VanishCam — Normal Vanish",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/vanish_cam.py",
+      "args": ["--mode", "normal", "--no-virtual-camera"],
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "VanishCam — Naruto Vanish",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/vanish_cam.py",
+      "args": ["--mode", "naruto", "--no-virtual-camera"],
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+mediapipe==1.1.1
+certifi>=2024.2
+opencv-contrib-python>=4.14,<6
+numpy>=2.0,<3
+pyvirtualcam>=0.15,<1
+pygame-ce>=2.5.5,<3
